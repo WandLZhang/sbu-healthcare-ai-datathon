@@ -36,8 +36,9 @@ jobs:
 
       - name: Copy slide visuals into build
         run: |
-          mkdir -p build/visuals
-          cp -L visuals/* build/visuals/ 2>/dev/null || true
+          sudo mkdir -p build/visuals
+          sudo cp -L visuals/* build/visuals/ 2>/dev/null || true
+          sudo chown -R $(id -u):$(id -g) build
 
       - name: Generate index page
         run: |
