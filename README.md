@@ -18,7 +18,11 @@ limitations under the License.
 
 > One-day workshop and hackathon for SBU clinicians, researchers, and students using Google Cloud, Vertex AI, and the open CMS synthetic OMOP / IDC BigQuery datasets.
 
-The day's narrative lives in the [slides](./slides/). Supporting materials referenced by the slides live in the folders below.
+## ▶ Live slides
+
+**[wandlzhang.github.io/sbu-healthcare-ai-datathon/slides.html](https://wandlzhang.github.io/sbu-healthcare-ai-datathon/slides.html)** — present from any browser. Arrow keys / spacebar to advance, `f` for fullscreen.
+
+Source for the deck: [`slides/slides.md`](./slides/slides.md). Pushes to `main` rebuild and redeploy via [`.github/workflows/marp-pages.yml`](./.github/workflows/marp-pages.yml).
 
 ## Layout
 
