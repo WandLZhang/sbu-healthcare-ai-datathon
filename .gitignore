@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Local secrets / generated config
+*.env
+.env.local
+cline_mcp_settings.json
+application_default_credentials.json
+*service-account*.json
+
+# Marp build output
+slides/build/
+_site/
+
+# Hackathon team scratch (kept out of submissions PRs)
+**/notebooks/.ipynb_checkpoints/
+**/scratch/
