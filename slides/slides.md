@@ -62,6 +62,8 @@ And you'll have submitted a team prototype to the event repo.
 
 ## Generative AI · 09:30 - 10:30
 
+/hidden
+
 ---
 
 ## Vertex AI Search lab
