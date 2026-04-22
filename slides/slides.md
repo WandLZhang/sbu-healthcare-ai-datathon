@@ -62,22 +62,18 @@ And you'll have submitted a team prototype to the event repo.
 
 ## Generative AI · 09:30 - 10:30
 
-/hidden
 
 ---
 
 ## Vertex AI Search lab
 
-A Qwiklabs lab that walks you through indexing a corpus of clinical documents in **Vertex AI Search** and querying it through a "chat with your data" UI.
-
-[`<QWIKLABS_URL>`](https://www.cloudskillsboost.google/) — placeholder, replace with the SBU lab link
-
-We'll then walk through what's possible with healthcare-tuned models.
+/Anand will add content for Vertex and Customer success stories.
 
 ---
 
 <!-- _class: compact -->
 
+/Willis to talk through these demos + Anand on EPIC FHIR demo
 ## Healthcare AI demos
 
 Click through during the walkthrough — every demo runs on Hugging Face, no install required.
@@ -99,6 +95,7 @@ Click through during the walkthrough — every demo runs on Hugging Face, no ins
 
 ## + Analytics · 10:30 - 11:30
 
+// Willis to talk through this 
 ---
 
 ## Clinical cohorts in Colab Enterprise
@@ -148,6 +145,8 @@ Then in the agent panel:
 ---
 
 ## Agentic coder
+
+//Willis to talk through the setup for Agentic coder 
 
 Walk through together:
 
