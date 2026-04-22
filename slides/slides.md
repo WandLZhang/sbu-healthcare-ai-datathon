@@ -146,7 +146,7 @@ Then in the agent panel:
 
 ## Agentic coder
 
-//Willis to talk through the setup for Agentic coder 
+//Willis to talk through the setup for Agentic coder + Anand to assist
 
 Walk through together:
 
