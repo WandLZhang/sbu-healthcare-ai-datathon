@@ -179,6 +179,33 @@ Pick a problem prompt, form a 3-5 person team, build something real.
 Judges: Stony Brook clinical faculty and Google healthcare engineers.
 
 ---
+**Sample Datasets**
+
+
+OPEN DATASET LINKS (no CITI required)
+
+MIMIC-IV Demo (BigQuery):
+physionet.org/content/mimic-iv-demo
+
+MGH/MF Waveform Database:
+archive.physionet.org/physiobank/database/mghdb
+
+BIDMC PPG & Respiration:
+physionet.org/content/bidmc
+
+NIH ChestX-ray14:
+nihcc.app.box.com/v/ChestXray-NIHCC
+
+CheXpert (free registration):
+stanfordmlgroup.github.io/competitions/chexpert
+
+HCUPnet (aggregate stats, no registration):
+hcupnet.ahrq.gov
+
+Synthea (synthetic data, MIT license):
+synthea.mitre.org
+
+---
 
 ## House rules
 
