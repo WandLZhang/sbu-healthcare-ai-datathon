@@ -150,6 +150,8 @@ MCP servers for Google Cloud, Logging, GitHub, and Hugging Face.
 
 You'll use these for the afternoon hackathon — and afterward, for any healthcare AI work you keep going on.
 
+Skills - npx skills add google/skills
+
 ---
 
 <!-- _class: section green -->
